@@ -6,6 +6,7 @@ git status
 git commit
 git push
 git pull
+git log
 python ...
 
 ## Najczesciej wykorzystywane komendy
@@ -13,4 +14,4 @@ python ...
 ```
 curl google.com
 ```
-2.
+2. Kocham git
