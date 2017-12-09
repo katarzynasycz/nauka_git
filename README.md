@@ -15,3 +15,5 @@ python ...
 curl google.com
 ```
 2. Kocham git
+
+3. Deployment on AWS.
