@@ -17,3 +17,5 @@ curl google.com
 2. Kocham git
 
 3. Deployment on AWS.
+
+4. git checkout nazwa branchu - zmiana branchu
